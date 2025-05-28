@@ -6,7 +6,7 @@ This repo is the delivering of a Go course assignment.
 
 The rate limiter package repo is
 
-`https://github.com/philippe-berto/rate-limiter`
+[philippe-berto/rate-limiter](https://github.com/philippe-berto/rate-limiter)
 
 And it's imported here for test purposes.
 
